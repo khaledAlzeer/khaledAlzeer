@@ -14,7 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=khaledAlzeer&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
-
 <h2>💻 Languages</h2>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -24,7 +23,6 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
 
 <h2>⚙️ Frameworks & Libraries</h2>
 <p align="center">
@@ -43,7 +41,6 @@
   <img alt="Tkinter" src="https://img.shields.io/badge/-Tkinter-FF6F61?style=for-the-badge"/>
 </p>
 
-
 <h2>🛠 Tools & Platforms</h2>
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -56,7 +53,6 @@
   <img alt="Beautiful Soup" src="https://img.shields.io/badge/-Beautiful_Soup-FF6F61?style=for-the-badge"/>
   <img alt="Codeforces" src="https://img.shields.io/badge/-Codeforces-1f2833?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
-
 
 <h2>🌐 Find Me</h2>
 <p align="center">
