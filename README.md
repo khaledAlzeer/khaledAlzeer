@@ -1,15 +1,14 @@
 <h1>
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="50"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   Hey! Nice to see you.
 </h1>
 
 <p align="center">
-  Welcome to my GitHub! I'm <b>Khaled Alzeer</b>, a Fullstack & AI Developer from Jordan 🌍.  
-  I explore merging AI with everything I build.
+  Welcome to my GitHub! I'm <b>Khaled Alzeer</b>, a Fullstack & AI Developer from Jordan 🌍. I explore merging AI with everything I build.
 </p>
 
 <p align="center">
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khaledAlzeer&animation=fade)
+  <img src="https://komarev.com/ghpvc/?username=khaledAlzeer&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
 <h2>💻 Languages</h2>
@@ -22,8 +21,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<details>
-<summary>⚙️ Frameworks & Libraries</summary>
+<h2>⚙️ Frameworks & Libraries</h2>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
@@ -39,10 +37,8 @@
   <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4BACC6?style=for-the-badge"/>
   <img alt="Tkinter" src="https://img.shields.io/badge/-Tkinter-FF6F61?style=for-the-badge"/>
 </p>
-</details>
 
-<details>
-<summary>🛠 Tools & Platforms</summary>
+<h2>🛠 Tools & Platforms</h2>
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -54,16 +50,10 @@
   <img alt="Beautiful Soup" src="https://img.shields.io/badge/-Beautiful_Soup-FF6F61?style=for-the-badge"/>
   <img alt="Codeforces" src="https://img.shields.io/badge/-Codeforces-1f2833?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
-</details>
 
 <h2>🌐 Find Me</h2>
 <p align="center">
   <a href="https://github.com/khaledAlzeer" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/khaled-alzeer-60787b322" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/Khaled_Alzeer05" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1f1f1f?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-</p>
-
-<h2>📊 GitHub Top Languages</h2>
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledAlzeer&layout=compact&theme=radical)
 </p>
