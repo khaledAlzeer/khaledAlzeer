@@ -1,10 +1,13 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Hey! Nice to see you.
+  <span style="font-family: 'Courier New', monospace;">Hey! Nice to see you.</span>
 </h1>
 
+<hr/>
+
 <p align="center">
-  Welcome to my GitHub! I'm <b>Khaled Alzeer</b>, a Fullstack & AI Developer from Jordan 🌍. I explore merging AI with everything I build.
+  Welcome to my GitHub! I'm <b>Khaled Alzeer</b>, a Python & Web Developer from Jordan 🌍.<br/>
+  I'm passionate about <b>AI</b> and aspire to become a professional <b>AI Developer</b>, exploring ways to integrate AI into everything I build.
 </p>
 
 <p align="center">
