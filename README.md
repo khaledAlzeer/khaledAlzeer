@@ -61,3 +61,10 @@
   <a href="https://linkedin.com/in/khaled-alzeer-60787b322" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/Khaled_Alzeer05" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1f1f1f?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
+
+<h2>📫 Contact Me</h2>
+<p align="center">
+  <a href="mailto:kalzyr61@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/KhaledAlzeer" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
