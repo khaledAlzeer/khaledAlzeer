@@ -1,18 +1,20 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  <span style="font-family: 'Courier New', monospace;">Hey! Nice to see you.</span>
+  Hey! Nice to see you.
 </h1>
-
-<hr/>
 
 <p align="center">
   Welcome to my GitHub! I'm <b>Khaled Alzeer</b>, a Python & Web Developer from Jordan 🌍.<br/>
   I'm passionate about <b>AI</b> and aspire to become a professional <b>AI Developer</b>, exploring ways to integrate AI into everything I build.
 </p>
 
+<hr style="border: 1px solid #00bfff; background: linear-gradient(to right, #00bfff, #ff7f50); margin: 20px 0;" />
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khaledAlzeer&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+
+<hr style="border: 1px solid #7fff00; background: linear-gradient(to right, #7fff00, #32cd32); margin: 20px 0;" />
 
 <h2>💻 Languages</h2>
 <p align="center">
@@ -23,6 +25,8 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+<hr style="border: 1px solid #ff69b4; background: linear-gradient(to right, #ff69b4, #ff1493); margin: 20px 0;" />
 
 <h2>⚙️ Frameworks & Libraries</h2>
 <p align="center">
@@ -41,6 +45,8 @@
   <img alt="Tkinter" src="https://img.shields.io/badge/-Tkinter-FF6F61?style=for-the-badge"/>
 </p>
 
+<hr style="border: 1px solid #ffa500; background: linear-gradient(to right, #ffa500, #ff4500); margin: 20px 0;" />
+
 <h2>🛠 Tools & Platforms</h2>
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -53,6 +59,8 @@
   <img alt="Beautiful Soup" src="https://img.shields.io/badge/-Beautiful_Soup-FF6F61?style=for-the-badge"/>
   <img alt="Codeforces" src="https://img.shields.io/badge/-Codeforces-1f2833?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
+
+<hr style="border: 1px solid #00ffff; background: linear-gradient(to right, #00ffff, #1e90ff); margin: 20px 0;" />
 
 <h2>🌐 Find Me</h2>
 <p align="center">
