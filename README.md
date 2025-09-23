@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
   Hey! Nice to see you.
 </h1>
@@ -11,9 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=khaledAlzeer&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
----
-
-<h2 align="center">💻 Languages</h2>
+<h2>💻 Languages</h2>
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -23,7 +21,7 @@
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<h2 align="center">⚙️ Frameworks & Libraries</h2>
+<h2>⚙️ Frameworks & Libraries</h2>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
@@ -40,7 +38,7 @@
   <img alt="Tkinter" src="https://img.shields.io/badge/-Tkinter-FF6F61?style=for-the-badge"/>
 </p>
 
-<h2 align="center">🛠 Tools & Platforms</h2>
+<h2>🛠 Tools & Platforms</h2>
 <p align="center">
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -53,7 +51,7 @@
   <img alt="Codeforces" src="https://img.shields.io/badge/-Codeforces-1f2833?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
 
-<h2 align="center">🌐 Find Me</h2>
+<h2>🌐 Find Me</h2>
 <p align="center">
   <a href="https://github.com/khaledAlzeer" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/khaled-alzeer-60787b322" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
