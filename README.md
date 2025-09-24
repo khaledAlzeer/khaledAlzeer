@@ -55,6 +55,7 @@
   <img alt="RStudio" src="https://img.shields.io/badge/-RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
   <img alt="pgAdmin" src="https://img.shields.io/badge/-pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img alt="Codeforces" src="https://img.shields.io/badge/-Codeforces-1f2833?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
 <h2>🌐 Find Me</h2>
