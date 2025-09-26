@@ -31,7 +31,6 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img alt="EJS" src="https://img.shields.io/badge/-EJS-000000?style=for-the-badge&logo=ejs&logoColor=white"/>
-  <img alt="EJS" src="https://img.shields.io/badge/-EJS-000000?style=for-the-badge&logo=ejs&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
