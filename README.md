@@ -1,11 +1,11 @@
-<h1 align="center">
+<h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-  Hey! Welcome!
+  Hey! Nice to see you.
 </h1>
 
 <p align="center">
-  I'm <b>Khaled Alzeer</b> 🌍 — an <b>AI-Focused Python & Web Developer</b> from Jordan.<br/>
-  Passionate about <b>AI, Data, and Automation</b>, I aim to build intelligent systems and integrate AI into every project I create.
+  Welcome to my GitHub! I'm <b>Khaled Alzeer</b>, a Python & Web Developer from Jordan 🌍.<br/>
+  I'm passionate about <b>AI</b> and aspire to become a professional <b>AI Developer</b>, exploring ways to integrate AI into everything I build.
 </p>
 
 <hr style="border: 1px solid #00bfff; background: linear-gradient(to right, #00bfff, #ff7f50); margin: 20px 0;" />
@@ -73,11 +73,4 @@
 <p align="center">
   <a href="mailto:kalzyr61@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/KhaledAlzeer" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
-
-<h2>💡 Status</h2>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaledAlzeer&theme=tokyonight" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=khaledAlzeer&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
