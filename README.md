@@ -16,9 +16,17 @@ Hi, I'm Khaled Alzeer, a passionate full-stack web developer with a love for bui
 
 ## My Skills
 
-## My Skills
+**💻 Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white">  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">  
+
+**⚙️ Frameworks & Libraries**
+
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white">  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white">  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white">  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white">  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white">  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white">  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white">  <img src="https://img.shields.io/badge/Seaborn-4BACC6?logo=seaborn&logoColor=white">  
+
+**🛠️ Tools & Platforms**
+
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white">  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white">  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white">  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black">  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white">  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white">  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white">  
 
 ## GitHub Stats 🔥
 
@@ -29,5 +37,4 @@ Hi, I'm Khaled Alzeer, a passionate full-stack web developer with a love for bui
 ## Connect with me
 
 <p align="center">
-  🔗 LinkedIn: <a href="https://linkedin.com/in/khaled-alzeer-60787b322" target="_blank">Khaled Alzeer</a> &nbsp;&nbsp; Email: kalzyr61@gmail.com
-</p>
+  🔗 LinkedIn: <a href="https://linkedin.com/in/khaled-alzeer-60787b322" target="_blank">Khaled Alzeer</a> &nbsp;&nbsp; Email: <a href="/cdn-cgi/l/emai
