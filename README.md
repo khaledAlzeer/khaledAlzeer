@@ -16,6 +16,8 @@ Hi, I'm Khaled Alzeer, a passionate full-stack web developer with a love for bui
 
 ## My Skills
 
+## My Skills
+
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white">  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black">  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">  <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff">
 
 ## GitHub Stats 🔥
