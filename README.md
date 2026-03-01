@@ -37,4 +37,4 @@ Hi, I'm Khaled Alzeer, a passionate full-stack web developer with a love for bui
 ## Connect with me
 
 <p align="center">
-  🔗 LinkedIn: <a href="https://linkedin.com/in/khaled-alzeer-60787b322" target="_blank">Khaled Alzeer</a> &nbsp;&nbsp; Email: <a href="/cdn-cgi/l/emai
+  🔗 LinkedIn: <a href="https://linkedin.com/in/khaled-alzeer-60787b322" target="_blank">Khaled Alzeer</a> &nbsp;&nbsp; Email: kalzyr@gmail.com <a href="/cdn-cgi/l/emai
