@@ -1,7 +1,7 @@
 <h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. </h1>
 
 <p align="center">
-  Welcome to my GitHub! I'm <b>Khaled Alzeer</b>, a passionate full-stack web developer who loves building scalable, user-friendly applications. Always learning, always building. 🚀
+  Welcome to my GitHub! I'm <b>Khaled Alzeer</b>, a passionate full-stack web developer with a love for building scalable, user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends. When I'm not coding, you can find me experimenting with new technologies, contributing to open-source projects, or sharing my knowledge with the developer community.
 </p>
 
 <hr style="border: 1px solid #00bfff; background: linear-gradient(to right, #00bfff, #ff7f50); margin: 20px 0;" />
