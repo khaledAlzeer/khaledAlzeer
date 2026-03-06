@@ -33,5 +33,9 @@
 ## Connect with me
 
 <p align="center">
-  🔗 LinkedIn: <a href="https://linkedin.com/in/khaled-alzeer-60787b322" target="_blank">Khaled Alzeer</a> &nbsp;&nbsp; Email: kalzyr61@gmail.com
+  🔗 LinkedIn: <a href="https://linkedin.com/in/khaled-alzeer-60787b322" target="_blank">Khaled Alzeer</a>
+  &nbsp;&nbsp;
+  📧 Email: kalzyr61@gmail.com
+  &nbsp;&nbsp;
+  🌐 Portfolio: <a href="https://khaledAlzeer.github.io/portfolio" target="_blank">khaledAlzeer.github.io/portfolio</a>
 </p>
