@@ -37,5 +37,5 @@
   &nbsp;&nbsp;
   📧 Email: kalzyr61@gmail.com
   &nbsp;&nbsp;
-  🌐 Portfolio: <a href="https://khaledAlzeer.github.io/portfolio" target="_blank">khaledAlzeer.github.io/portfolio</a>
+  🌐 Portfolio: <a href="https://khaledAlzeer.github.io/portfolio" target="_blank">View Portfolio</a>
 </p>
