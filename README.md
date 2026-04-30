@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,40:0a1f3d,100:0e3d7a&height=220&section=header&text=Khaled%20Alzeer&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Python%20Developer%20%7C%20ML%20Explorer&descAlignY=58&descSize=16&descColor=7ec8ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Khaled%20Alzeer&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Python%20Developer%20%7C%20ML%20Explorer&descAlignY=58&descAlign=50&descSize=16&descColor=58a6ff" width="100%"/>
 
 <br/>
 
@@ -168,6 +168,6 @@ print(me.mission())
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e3d7a,50:0a1f3d,100:050d1a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
