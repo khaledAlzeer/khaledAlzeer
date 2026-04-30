@@ -49,7 +49,7 @@ class KhaledAlzeer:
         ]
 
         self.currently = [
-            "📖 Expanding deep knowledge in LLMs & Transformers",
+            "📖 Expanding deep knowledge in LLMs and Transformers",
             "🔬 Exploring Computer Vision & NLP pipelines",
             "🛠️ Building scalable, data-driven full-stack applications",
             "🧠 Bridging software engineering with AI/ML",
