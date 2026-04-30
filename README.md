@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Khaled%20Alzeer&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Python%20Developer%20%7C%20ML%20Explorer&descAlignY=58&descAlign=50" width="100%"/>
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Khaled%20Alzeer&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Python%20Developer%20%7C%20ML%20Explorer&descAlignY=58&descAlign=50" />
 
 <br/>
 
@@ -8,9 +9,10 @@
 
 <br/>
 
-</div>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=khaledAlzeer&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/khaledAlzeer)
+<!-- Profile Views (CENTER FIX) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khaledAlzeer&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+</p>
 
 </div>
 
