@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a4a,100:0e4d8c&height=220&section=header&text=Khaled%20Alzeer&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Python%20Developer%20%7C%20ML%20Explorer&descAlignY=58&descSize=16&descColor=58a6ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050d1a,40:0a1f3d,100:0e3d7a&height=220&section=header&text=Khaled%20Alzeer&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Python%20Developer%20%7C%20ML%20Explorer&descAlignY=58&descSize=16&descColor=7ec8ff&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -8,9 +8,6 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khaled%20Alzeer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-alzeer-60787b322)
-[![Email](https://img.shields.io/badge/Email-kalzyr61%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalzyr61@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-0e4d8c?style=for-the-badge&logo=githubpages&logoColor=white)](https://khaledAlzeer.github.io/portfolio)
 [![Profile Views](https://komarev.com/ghpvc/?username=khaledAlzeer&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/khaledAlzeer)
 
 </div>
@@ -147,16 +144,6 @@ print(me.mission())
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Khaled's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khaledAlzeer&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## ⚡ Quote I Live By
 
 <div align="center">
@@ -176,10 +163,11 @@ print(me.mission())
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/khaled-alzeer-60787b322)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kalzyr61@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=58A6FF)](https://khaledAlzeer.github.io/portfolio)
+[![Codeforces](https://img.shields.io/badge/Codeforces-0d1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/khaledAlzeer)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledAlzeer)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e4d8c,50:0a2a4a,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e3d7a,50:0a1f3d,100:050d1a&height=120&section=footer" width="100%"/>
 
 </div>
