@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Khaled%20Alzeer&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Data%20Science%20Student%20%7C%20Python%20Developer%20%7C%20ML%20Explorer&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Khaled%20Alzeer&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Student%20at%20ZUJ%20%7C%20AI%20%26%20Machine%20Learning%20%7C%20Python%20Developer&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=55&lines=AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Python+Developer+%7C+Full-Stack+Builder+%F0%9F%90%8D;Microsoft+Certified+Azure+AI+Fundamentals+%E2%9C%85;Turning+Data+into+Intelligent+Systems+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=55&lines=AI+%26+Data+Student+at+ZUJ;AI+%26+Machine+Learning+Enthusiast;Python+Developer+%7C+Full-Stack+Builder;Microsoft+Certified+Azure+AI+Fundamentals;Turning+Data+into+Intelligent+Systems;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
