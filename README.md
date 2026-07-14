@@ -1,20 +1,12 @@
 <div align="center">
-  
-<!-- Animated Banner (STABLE VERSION) -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Khaled%20Alzeer&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
-<br/>
+<h3>AI & Data Science Student at ZUJ</h3>
 
-<!-- Subtitle ثابت بدل desc داخل capsule (هذا هو الحل الحقيقي) -->
-<h3 align="center">AI & Data Science Student at ZUJ</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=55&lines=AI+%26+Machine+Learning+Enthusiast;Python+Developer+%7C+Full-Stack+Builder;Microsoft+Certified+Azure+AI+Fundamentals;Turning+Data+into+Intelligent+Systems;Always+Learning+%7C+Always+Building" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=55&lines=AI+Machine+Learning+Enthusiast;Python+Developer+%7C+Full-Stack+Builder;Microsoft+Certified+Azure+AI+Fundamentals;Turning+Data+into+Intelligent+Systems;Always+Learning+%7C+Always+Building" />
-
-<br/>
-
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=khaledAlzeer&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
 </p>
 
@@ -27,10 +19,10 @@
 ```python
 class KhaledAlzeer:
     def __init__(self):
-        self.name        = "Khaled Alzeer"
-        self.role        = "AI & Data Science Student @ ZUJ"
-        self.location    = "Amman, Jordan 🇯🇴"
-        self.year        = "3rd Year"
+        self.name = "Khaled Alzeer"
+        self.role = "AI & Data Science Student @ ZUJ"
+        self.location = "Amman, Jordan 🇯🇴"
+        self.year = "3rd Year"
 
         self.focus = [
             "Machine Learning",
@@ -40,32 +32,33 @@ class KhaledAlzeer:
         ]
 
         self.stack = {
-            "languages" : ["Python", "JavaScript", "Java", "SQL", "R"],
-            "backend"   : ["Flask", "Django", "Node.js", "Express.js", "REST APIs"],
-            "frontend"  : ["React", "HTML5", "CSS3", "Bootstrap 5"],
-            "data"      : ["Pandas", "NumPy", "Scikit-Learn", "Matplotlib", "Seaborn", "Plotly"],
-            "tools"     : ["Git", "Power BI", "Selenium", "Postman", "Jupyter"],
-            "databases" : ["PostgreSQL", "SQLAlchemy"],
+            "languages": ["Python", "JavaScript", "Java", "SQL", "R"],
+            "backend": ["Flask", "Django", "Node.js", "Express.js", "REST APIs"],
+            "frontend": ["React", "HTML5", "CSS3", "Bootstrap 5"],
+            "data": ["Pandas", "NumPy", "Scikit-Learn", "Matplotlib", "Seaborn", "Plotly"],
+            "tools": ["Git", "Power BI", "Selenium", "Postman", "Jupyter"],
+            "databases": ["PostgreSQL", "SQLAlchemy"],
         }
 
         self.certifications = [
-            "✅ Microsoft Azure AI Fundamentals (AI-900)",
-            "✅ Power BI Desktop Bootcamp — Udemy",
-            "✅ Complete Web Development Bootcamp — Udemy",
-            "✅ 100 Days of Code: Python Pro Bootcamp — Udemy",
+            "Microsoft Azure AI Fundamentals (AI-900)",
+            "Power BI Desktop Bootcamp — Udemy",
+            "Complete Web Development Bootcamp — Udemy",
+            "100 Days of Code: Python Pro Bootcamp — Udemy",
         ]
 
         self.currently = [
-            "📖 Expanding deep knowledge in LLMs and Transformers",
-            "🔬 Exploring Computer Vision & NLP pipelines",
-            "🛠️ Building scalable, data-driven full-stack applications",
-            "🧠 Bridging software engineering with AI/ML",
+            "Expanding deep knowledge in LLMs and Transformers",
+            "Exploring Computer Vision & NLP pipelines",
+            "Building scalable, data-driven full-stack applications",
+            "Bridging software engineering with AI/ML",
         ]
 
-        self.fun_fact = "I believe clean data is the foundation of every great AI system 🧹"
+        self.fun_fact = "Clean data is the foundation of every great AI system."
 
     def mission(self):
         return "Build intelligent systems that bridge software engineering & AI to solve real problems 🚀"
+
 
 me = KhaledAlzeer()
 print(me.mission())
@@ -78,7 +71,7 @@ print(me.mission())
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=python&logoColor=11557C)
@@ -156,7 +149,7 @@ print(me.mission())
 
 <div align="center">
 
-> *"In God we trust; all others must bring data."* — W. Edwards Deming
+*"In God we trust; all others must bring data."* — W. Edwards Deming
 
 💡 *"AI doesn't replace thinking — it amplifies it. My goal is to build systems that do exactly that."* 🧠🚀
 
