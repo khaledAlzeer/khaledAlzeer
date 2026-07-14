@@ -1,5 +1,4 @@
 <div align="center">
-
 <!-- Animated Banner (STABLE VERSION) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Khaled%20Alzeer&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
 
