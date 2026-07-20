@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:1f6feb&height=180&section=header&text=Khaled%20Alzeer&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Amman%2C%20Jordan&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=Khaled%20Alzeer&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Data%20Science%20%7C%20Amman%2C%20Jordan&descAlignY=55&descSize=20" />
 
 <img src="https://komarev.com/ghpvc/?username=khaledAlzeer&style=flat-square&color=6f42c1&label=Views"/>
 
@@ -103,11 +103,6 @@ Machine Learning · Deep Learning · NLP · Computer Vision · Generative AI · 
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khaledAlzeer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=a371f7&icon_color=a371f7&text_color=C9D1D9" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledAlzeer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=a371f7&text_color=C9D1D9" />
-
-<br/>
-
 <img width="60%" src="https://streak-stats.demolab.com?user=khaledAlzeer&theme=radical&hide_border=true&background=0D1117&stroke=a371f7&ring=a371f7&fire=a371f7&currStreakLabel=a371f7" />
 
 </div>
@@ -138,5 +133,5 @@ Machine Learning · Deep Learning · NLP · Computer Vision · Generative AI · 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:1f6feb&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
 </div>
