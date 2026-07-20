@@ -2,12 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:1f6feb&height=180&section=header&text=Khaled%20Alzeer&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Amman%2C%20Jordan&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
 
-<br/>
-
-<a href="https://linkedin.com/in/khaled-alzeer-60787b322"><img src="https://img.shields.io/badge/LinkedIn-Connect-6f42c1?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:kalzyr61@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-6f42c1?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://khaledAlzeer.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-6f42c1?style=flat-square&logo=githubpages&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/khaledAlzeer"><img src="https://img.shields.io/badge/Codeforces-Profile-6f42c1?style=flat-square&logo=codeforces&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=khaledAlzeer&style=flat-square&color=6f42c1&label=Views"/>
 
 </div>
@@ -130,7 +124,7 @@ Machine Learning · Deep Learning · NLP · Computer Vision · Generative AI · 
 
 <br/>
 
-## ⟡ Let's Connect
+## ⟡ Contact
 
 <div align="center">
 
@@ -138,7 +132,6 @@ Machine Learning · Deep Learning · NLP · Computer Vision · Generative AI · 
 [![Gmail](https://img.shields.io/badge/Gmail-6f42c1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalzyr61@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=githubpages&logoColor=white)](https://khaledAlzeer.github.io/portfolio)
 [![Codeforces](https://img.shields.io/badge/Codeforces-6f42c1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/khaledAlzeer)
-[![GitHub](https://img.shields.io/badge/GitHub-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledAlzeer)
 
 </div>
 
