@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Khaled%20Alzeer&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:a371f7&height=200&section=header&text=Khaled%20Alzeer&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Amman%2C%20Jordan&descAlignY=55&descSize=18" width="100%" />
 
 <img src="https://komarev.com/ghpvc/?username=khaledAlzeer&style=flat-square&color=6f42c1&label=Views"/>
 
@@ -133,5 +133,5 @@ Machine Learning · Deep Learning · NLP · Computer Vision · Generative AI · 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:a371f7&height=120&section=footer" width="100%" />
 </div>
