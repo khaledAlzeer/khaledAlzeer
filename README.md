@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=180&section=header&text=Khaled%20Alzeer&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=AI%20%26%20Data%20Science%20%7C%20Amman%2C%20Jordan&descAlignY=62&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:1f6feb&height=180&section=header&text=Khaled%20Alzeer&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Amman%2C%20Jordan&descAlignY=58&descSize=18&animation=twinkling" width="100%" />
 
 <br/>
 
@@ -28,9 +28,9 @@ I'm a 3rd-year **AI & Data Science** student at Al-Zaytoonah University of Jorda
 <tr>
 <td valign="top" width="50%">
 
-**AI / Data**
+**AI / Data / Deep Learning**
 <br/>
-<img src="https://img.shields.io/badge/Python-6f42c1?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-6f42c1?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-6f42c1?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-6f42c1?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-6f42c1?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-6f42c1?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-6f42c1?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-6f42c1?style=flat-square&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/R-6f42c1?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-6f42c1?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-6f42c1?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-6f42c1?style=flat-square&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-6f42c1?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-6f42c1?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-6f42c1?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-6f42c1?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-6f42c1?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-6f42c1?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-6f42c1?style=flat-square&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/R-6f42c1?style=flat-square&logo=r&logoColor=white"/>
 
 </td>
 <td valign="top" width="50%">
@@ -130,6 +130,20 @@ Machine Learning · Deep Learning · NLP · Computer Vision · Generative AI · 
 
 <br/>
 
+## ⟡ Let's Connect
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6f42c1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-alzeer-60787b322)
+[![Gmail](https://img.shields.io/badge/Gmail-6f42c1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalzyr61@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=githubpages&logoColor=white)](https://khaledAlzeer.github.io/portfolio)
+[![Codeforces](https://img.shields.io/badge/Codeforces-6f42c1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/khaledAlzeer)
+[![GitHub](https://img.shields.io/badge/GitHub-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledAlzeer)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6f42c1,100:1f6feb&height=120&section=footer" width="100%"/>
 </div>
