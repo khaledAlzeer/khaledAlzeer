@@ -122,26 +122,10 @@ Machine Learning · Deep Learning · NLP · Computer Vision · Generative AI · 
 
 <div align="center">
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-6f42c1?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://linkedin.com/in/khaled-alzeer-60787b322)
-[
-
-![Gmail](https://img.shields.io/badge/Gmail-6f42c1?style=for-the-badge&logo=gmail&logoColor=white)
-
-](mailto:kalzyr61@gmail.com)
-[
-
-![Portfolio](https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=githubpages&logoColor=white)
-
-](https://khaledAlzeer.github.io/portfolio)
-[
-
-![Codeforces](https://img.shields.io/badge/Codeforces-6f42c1?style=for-the-badge&logo=codeforces&logoColor=white)
-
-](https://codeforces.com/profile/khaledAlzeer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6f42c1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaled-alzeer-60787b322)
+[![Gmail](https://img.shields.io/badge/Gmail-6f42c1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kalzyr61@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6f42c1?style=for-the-badge&logo=githubpages&logoColor=white)](https://khaledAlzeer.github.io/portfolio)
+[![Codeforces](https://img.shields.io/badge/Codeforces-6f42c1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/khaledAlzeer)
 
 </div>
 
